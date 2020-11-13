@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xinbo Geng"
+title                    : "Wenjun Li"
 title_separator          : "-"
-name                     : &name "Xinbo Geng"
+name                     : &name "Wenjun Li"
 description              : &description "personal description"
-url                      : https://xb00dx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wenjunli-0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xb00dx/xb00dx.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xinbo Geng"
+  name             : "Wenjun Li"
   avatar           : "profile.png"
   bio              : "Researcher in ECE<br>reading, thinking and writing"
-  location         : "Ithaca, NY"
-  employer         : "Cornell & Texas A&M"
+  location         : "Singapore"
+  employer         : "SMU"
   googlescholar    : "https://scholar.google.com/citations?user=9GQBojYAAAAJ&hl=en&oi=ao"
-  email            : "xbgeng@tamu.edu"
+  email            : "wjli.2020@phdcs.smu.edu.sg"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xb00dx"
+  github           : "wenjunli-0"
   google_plus      :
   keybase          :
   instagram        :
