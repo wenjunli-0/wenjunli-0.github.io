@@ -1,3 +1,1 @@
-Originally (shamelessly) plagiarised from:
-
-http://cs.stanford.edu/~rpryzant/
+Shamelessly plagiarised from https://github.com/jparkerholder/jparkerholder.github.io?tab=readme-ov-file. 
