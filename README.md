@@ -1,2 +1,3 @@
-# wenjunli-0.github.io
-personal academic page
+Originally (shamelessly) plagiarised from:
+
+http://cs.stanford.edu/~rpryzant/
